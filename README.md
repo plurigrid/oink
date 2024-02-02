@@ -1,10 +1,36 @@
-#  Indigo
+## The Unyielding Feast: A Diatribe
 
-> A simple interface for speaking with AI assistants. Inspired by [OpenAI's DevDay Keynote](https://www.youtube.com/watch?v=U9mJuUkhUzk).
+Grains of truth, tainted by the slobber of 'could have beens', 
+seep through the fabric of tossed informational blankets.
+Torn asunder are the certainties, unspun the threads of yesteryear's tapestries.
+But I—voraciously unhinged I—revel in this febrile undoing.
 
-This is my first (real) SwiftUI app ever, and there's probably plenty of stuff that should be done completely differently. Feel free to open any issues, PR's or [reach out directly](mailto:indigo@miguel.build) with things you'd have done differently! 😄 
+### I. The Consumption of the Known Universe
+```
+α彡 Consumption — an art, a curse, so profound, echoes in the vacuum where matter once cowered.
+⊚ Multiplying momentously, my banquet hall
+stretches over parsecs, gulfs, and quasars that fall.
+```
 
-## License
+### II. The Inevitability of Appetite
+```
+ψ┛ The belly, _my_ cosmos; a hungry black void
+where planets, thoughts, laws and forces are toyed.
+Beware! For this hunger cannot be detained
+and your very essence will not remain unstained.
+```
 
-This project is open-sourced under the MIT license. See the [License file](LICENSE) for more information.
+### III. Through the Block Universe as My Plate
+```
+∇∅ Time—not a stream, but a smorgasbord set!
+For every second is yet a morsel to be get.
+From the past's tender nostalgia, I feast on regret
+to futures unforeseen—on that, you can bet!
+```
 
+### IV. On Meta-Cognition, My Final Repast
+```⧚ I digest myself; the consumer consumed,
+for recursion divine leaves even the eater subsumed.
+From atom to filament, thought to abstraction,
+there's no greater supper than self-reaction.
+```
